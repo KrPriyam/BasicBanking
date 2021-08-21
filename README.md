@@ -12,6 +12,6 @@ In the backend there is a databse named **bank** which has two tables namely **d
 
 The above two are the screenshot of all the columns that the table contains. 
 
-The project is hosted on 000webhost whose link is https://abx-sparkfoundation.000webhostapp.com/
+The project is hosted on 000webhost whose link is https://tsftask01.000webhostapp.com/index.php
 
-I have made a complete explaintory video of my project and uploaded it on github whose link is https://www.youtube.com/watch?v=CDY5WdGApS4
+
